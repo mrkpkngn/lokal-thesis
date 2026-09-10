@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="n0tNUnSTPP6YIHva_e9o" name="Page-1">
-        <mxGraphModel dx="2173" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1923" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -78,12 +78,6 @@
                 </mxCell>
                 <mxCell id="38" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Use Case Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
                     <mxGeometry x="275" y="80" width="290" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="39" value="Edit tags / profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="660" width="200" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="40" value="Edit tags / profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="670" width="200" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
